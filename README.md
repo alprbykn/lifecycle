@@ -5,4 +5,4 @@
 ![news](https://user-images.githubusercontent.com/52401234/130111755-1da80ce2-b9bd-44e2-9d91-faedcc88890b.jpg)
 # lifecycle
 Mobile Applicaction for tracking cryptocurrency news and prices with react native(Android)
-go to master branch from braches to see project
+go to master branch from braches to see project(not from inside read.me, from project folder.)
