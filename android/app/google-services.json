@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946360621271",
+    "project_id": "coinnewhistories-eee03",
+    "storage_bucket": "coinnewhistories-eee03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946360621271:android:b85033bd93e197314d3892",
+        "android_client_info": {
+          "package_name": "com.lifecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946360621271-c5vr4075tb2qapfdn5jkqlkfs1g01a8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7KQD9olSSQom667E4xuPWDpEwaaWSEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946360621271-c5vr4075tb2qapfdn5jkqlkfs1g01a8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
